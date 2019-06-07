@@ -1,0 +1,7 @@
+1. Separar frames dos videos/imagens 
+    -> https://www.bugcodemaster.com/article/extract-images-frame-frame-video-file-using-ffmpeg
+
+2. Separar em conjunto de treinamento e validação -> 
+    ->  https://stackoverflow.com/questions/13610074/is-there-a-rule-of-thumb-for-how-to-divide-a-dataset-into-training-and-validatio
+    -> https://developers.google.com/machine-learning/crash-course/training-and-test-sets/splitting-data
+    243 imagens: 194 treinamento(80%) / 49 validation (20%)
